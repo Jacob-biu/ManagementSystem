@@ -3,7 +3,7 @@ package com.jacob.common.constant;
 /**
  * 返回状态码
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 public class HttpStatus
 {

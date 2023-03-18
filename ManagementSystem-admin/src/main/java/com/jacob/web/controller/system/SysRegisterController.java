@@ -14,7 +14,7 @@ import com.jacob.system.service.ISysConfigService;
 /**
  * 注册验证
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 @RestController
 public class SysRegisterController extends BaseController

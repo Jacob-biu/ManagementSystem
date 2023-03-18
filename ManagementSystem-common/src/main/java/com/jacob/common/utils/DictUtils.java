@@ -11,7 +11,7 @@ import com.jacob.common.utils.spring.SpringUtils;
 /**
  * 字典工具类
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 public class DictUtils
 {

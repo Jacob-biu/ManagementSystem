@@ -22,7 +22,7 @@ import com.jacob.common.utils.ip.IpUtils;
 /**
  * 限流处理
  *
- * @author ruoyi
+ * @author JacobJohn
  */
 @Aspect
 @Component

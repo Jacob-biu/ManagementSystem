@@ -18,7 +18,7 @@ import com.jacob.common.utils.StringUtils;
 /**
  * 全局异常处理器
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 @RestControllerAdvice
 public class GlobalExceptionHandler

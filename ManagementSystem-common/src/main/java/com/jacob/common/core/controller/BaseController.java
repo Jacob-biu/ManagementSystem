@@ -24,7 +24,7 @@ import com.jacob.common.utils.sql.SqlUtil;
 /**
  * web层通用数据处理
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 public class BaseController
 {

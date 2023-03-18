@@ -20,7 +20,7 @@ import com.jacob.system.service.ISysMenuService;
 /**
  * 登录验证
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 @RestController
 public class SysLoginController

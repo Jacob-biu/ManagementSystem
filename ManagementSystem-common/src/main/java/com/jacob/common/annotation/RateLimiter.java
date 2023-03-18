@@ -11,7 +11,7 @@ import com.jacob.common.enums.LimitType;
 /**
  * 限流注解
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)

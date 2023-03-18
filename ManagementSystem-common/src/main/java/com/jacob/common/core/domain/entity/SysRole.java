@@ -13,7 +13,7 @@ import com.jacob.common.core.domain.BaseEntity;
 /**
  * 角色表 sys_role
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 public class SysRole extends BaseEntity
 {

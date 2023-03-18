@@ -34,7 +34,7 @@ import com.jacob.system.service.ISysUserService;
 /**
  * 角色信息
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 @RestController
 @RequestMapping("/system/role")

@@ -5,7 +5,7 @@ import com.jacob.common.utils.Arith;
 /**
  * 內存相关信息
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 public class Mem
 {

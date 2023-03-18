@@ -8,7 +8,7 @@ import com.jacob.system.domain.SysUserRole;
 /**
  * 角色业务层
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 public interface ISysRoleService
 {

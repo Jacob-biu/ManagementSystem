@@ -25,7 +25,7 @@ import com.jacob.system.service.ISysDeptService;
 /**
  * 部门信息
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 @RestController
 @RequestMapping("/system/dept")

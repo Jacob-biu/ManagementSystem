@@ -3,7 +3,7 @@ package com.jacob.common.exception.user;
 /**
  * 验证码失效异常类
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 public class CaptchaExpireException extends UserException
 {

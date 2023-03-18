@@ -3,7 +3,7 @@ package com.jacob.common.enums;
 /**
  * 业务操作类型
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 public enum BusinessType
 {

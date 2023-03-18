@@ -5,7 +5,7 @@ import com.jacob.common.utils.StringUtils;
 /**
  * 缓存信息
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 public class SysCache
 {

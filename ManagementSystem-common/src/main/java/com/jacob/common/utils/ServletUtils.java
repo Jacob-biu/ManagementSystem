@@ -20,7 +20,7 @@ import com.jacob.common.core.text.Convert;
 /**
  * 客户端工具类
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 public class ServletUtils
 {

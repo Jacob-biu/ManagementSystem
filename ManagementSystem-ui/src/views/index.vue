@@ -120,7 +120,7 @@
             <p>
               <i class="el-icon-user-solid"></i> QQ群：<s>满937441</s> <s>满887144332</s>
               <s>满180251782</s> <s>满104180207</s> <s>满186866453</s> <s>满201396349</s>
-              <s>满101456076</s> <s>满101539465</s> <s>满264312783</s> <s>满167385320</s> 
+              <s>满101456076</s> <s>满101539465</s> <s>满264312783</s> <s>满167385320</s>
               <s>满104748341</s> <s>满160110482</s> <s>满170801498</s> <a href="https://jq.qq.com/?_wv=1027&k=eCx8eyoJ" target="_blank">
                 108482800</a
               >
@@ -147,7 +147,7 @@
             <span>更新日志</span>
           </div>
           <el-collapse accordion>
-            <el-collapse-item title="v3.8.5 - 2023-01-01">
+            <el-collapse-item title="v1.0.0 - 2023-01-01">
               <ol>
                 <li>定时任务违规的字符</li>
                 <li>重置时取消部门选中</li>
@@ -909,7 +909,7 @@ export default {
   data() {
     return {
       // 版本号
-      version: "3.8.5"
+      version: "1.0.0"
     };
   },
   methods: {

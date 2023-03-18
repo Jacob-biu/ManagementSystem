@@ -6,7 +6,7 @@ import com.jacob.system.domain.SysPost;
 /**
  * 岗位信息 数据层
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 public interface SysPostMapper
 {

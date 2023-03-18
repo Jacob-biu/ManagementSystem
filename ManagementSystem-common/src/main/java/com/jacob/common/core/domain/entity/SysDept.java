@@ -13,7 +13,7 @@ import com.jacob.common.core.domain.BaseEntity;
 /**
  * 部门表 sys_dept
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 public class SysDept extends BaseEntity
 {

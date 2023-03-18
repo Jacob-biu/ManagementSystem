@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.multipart.MultipartFile;
 import com.jacob.common.annotation.Log;
-import com.jacob.common.config.RuoYiConfig;
+import com.jacob.common.config.ManagementSystemConfig;
 import com.jacob.common.core.controller.BaseController;
 import com.jacob.common.core.domain.AjaxResult;
 import com.jacob.common.core.domain.entity.SysUser;
@@ -26,7 +26,7 @@ import com.jacob.system.service.ISysUserService;
 /**
  * 个人信息 业务处理
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 @RestController
 @RequestMapping("/system/user/profile")
@@ -125,7 +125,7 @@ public class SysProfileController extends BaseController
         if (!file.isEmpty())
         {
             LoginUser loginUser = getLoginUser();
-            String avatar = FileUploadUtils.upload(RuoYiConfig.getAvatarPath(), file, MimeTypeUtils.IMAGE_EXTENSION);
+            String avatar = FileUploadUtils.upload(ManagementSystemConfig.getAvatarPath(), file, MimeTypeUtils.IMAGE_EXTENSION);
             if (userService.updateUserAvatar(loginUser.getUsername(), avatar))
             {
                 AjaxResult ajax = AjaxResult.success();

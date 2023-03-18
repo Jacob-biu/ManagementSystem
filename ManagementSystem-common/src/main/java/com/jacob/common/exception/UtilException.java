@@ -3,7 +3,7 @@ package com.jacob.common.exception;
 /**
  * 工具类异常
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 public class UtilException extends RuntimeException
 {

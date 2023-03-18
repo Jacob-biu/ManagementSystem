@@ -3,7 +3,7 @@ package com.jacob.common.enums;
 /**
  * 用户状态
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 public enum UserStatus
 {

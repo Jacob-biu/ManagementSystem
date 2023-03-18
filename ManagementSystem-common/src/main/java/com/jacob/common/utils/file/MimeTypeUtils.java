@@ -3,7 +3,7 @@ package com.jacob.common.utils.file;
 /**
  * 媒体类型工具类
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 public class MimeTypeUtils
 {

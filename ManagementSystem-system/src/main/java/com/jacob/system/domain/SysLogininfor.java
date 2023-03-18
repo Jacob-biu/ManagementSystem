@@ -9,7 +9,7 @@ import com.jacob.common.core.domain.BaseEntity;
 /**
  * 系统访问记录表 sys_logininfor
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 public class SysLogininfor extends BaseEntity
 {

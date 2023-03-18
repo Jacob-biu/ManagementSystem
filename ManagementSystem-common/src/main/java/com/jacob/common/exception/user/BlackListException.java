@@ -3,7 +3,7 @@ package com.jacob.common.exception.user;
 /**
  * 黑名单IP异常类
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 public class BlackListException extends UserException
 {

@@ -33,7 +33,7 @@ import com.jacob.system.domain.SysOperLog;
 /**
  * 操作日志记录处理
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 @Aspect
 @Component

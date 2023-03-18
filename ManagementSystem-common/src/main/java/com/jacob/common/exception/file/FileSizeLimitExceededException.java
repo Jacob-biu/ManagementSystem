@@ -3,7 +3,7 @@ package com.jacob.common.exception.file;
 /**
  * 文件名大小限制异常类
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 public class FileSizeLimitExceededException extends FileException
 {

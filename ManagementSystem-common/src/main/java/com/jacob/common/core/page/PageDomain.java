@@ -5,7 +5,7 @@ import com.jacob.common.utils.StringUtils;
 /**
  * 分页数据
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 public class PageDomain
 {

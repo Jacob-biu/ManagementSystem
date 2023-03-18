@@ -33,7 +33,7 @@ import com.jacob.system.service.ISysUserService;
 /**
  * 用户 业务层处理
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 @Service
 public class SysUserServiceImpl implements ISysUserService

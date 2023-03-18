@@ -3,7 +3,7 @@ package com.jacob.common.constant;
 /**
  * 任务调度通用常量
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 public class ScheduleConstants
 {

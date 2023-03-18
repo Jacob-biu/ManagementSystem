@@ -7,7 +7,7 @@ import com.jacob.common.constant.Constants;
 /**
  * VelocityEngine工厂
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 public class VelocityInitializer
 {

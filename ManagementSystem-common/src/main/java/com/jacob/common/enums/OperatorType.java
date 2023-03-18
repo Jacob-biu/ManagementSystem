@@ -3,7 +3,7 @@ package com.jacob.common.enums;
 /**
  * 操作人类别
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 public enum OperatorType
 {

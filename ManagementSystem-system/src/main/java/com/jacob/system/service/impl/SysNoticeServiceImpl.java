@@ -10,7 +10,7 @@ import com.jacob.system.service.ISysNoticeService;
 /**
  * 公告 服务层实现
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 @Service
 public class SysNoticeServiceImpl implements ISysNoticeService

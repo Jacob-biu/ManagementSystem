@@ -13,7 +13,7 @@ import com.jacob.system.service.ISysRoleService;
 /**
  * 用户权限处理
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 @Component
 public class SysPermissionService

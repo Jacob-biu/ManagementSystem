@@ -3,7 +3,7 @@ package com.jacob.common.exception.user;
 /**
  * 用户不存在异常类
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 public class UserNotExistsException extends UserException
 {

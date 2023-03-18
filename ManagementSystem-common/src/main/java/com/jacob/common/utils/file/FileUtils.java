@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import org.apache.commons.io.IOUtils;
 import org.apache.commons.lang3.ArrayUtils;
-import com.jacob.common.config.RuoYiConfig;
+import com.jacob.common.config.ManagementSystemConfig;
 import com.jacob.common.utils.DateUtils;
 import com.jacob.common.utils.StringUtils;
 import com.jacob.common.utils.uuid.IdUtils;
@@ -22,7 +22,7 @@ import org.apache.commons.io.FilenameUtils;
 /**
  * 文件处理工具类
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 public class FileUtils
 {
@@ -73,7 +73,7 @@ public class FileUtils
      */
     public static String writeImportBytes(byte[] data) throws IOException
     {
-        return writeBytes(data, RuoYiConfig.getImportPath());
+        return writeBytes(data, ManagementSystemConfig.getImportPath());
     }
 
     /**

@@ -15,7 +15,7 @@ import com.jacob.common.utils.StringUtils;
 /**
  * Filter配置
  *
- * @author ruoyi
+ * @author JacobJohn
  */
 @Configuration
 public class FilterConfig

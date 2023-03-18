@@ -3,7 +3,7 @@ package com.jacob.system.domain;
 /**
  * 当前在线会话
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 public class SysUserOnline
 {

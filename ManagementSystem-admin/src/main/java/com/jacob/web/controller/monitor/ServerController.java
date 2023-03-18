@@ -10,7 +10,7 @@ import com.jacob.framework.web.domain.Server;
 /**
  * 服务器监控
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 @RestController
 @RequestMapping("/monitor/server")

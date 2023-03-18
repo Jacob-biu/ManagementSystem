@@ -9,7 +9,7 @@ import com.jacob.system.domain.vo.RouterVo;
 /**
  * 菜单 业务层
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 public interface ISysMenuService
 {

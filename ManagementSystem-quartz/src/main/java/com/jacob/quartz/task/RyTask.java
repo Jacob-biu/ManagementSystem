@@ -6,7 +6,7 @@ import com.jacob.common.utils.StringUtils;
 /**
  * 定时任务调度测试
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 @Component("ryTask")
 public class RyTask

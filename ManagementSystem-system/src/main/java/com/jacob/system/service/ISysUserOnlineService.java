@@ -6,7 +6,7 @@ import com.jacob.system.domain.SysUserOnline;
 /**
  * 在线用户 服务层
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 public interface ISysUserOnlineService
 {

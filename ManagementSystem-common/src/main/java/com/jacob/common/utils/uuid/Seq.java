@@ -5,7 +5,7 @@ import com.jacob.common.utils.DateUtils;
 import com.jacob.common.utils.StringUtils;
 
 /**
- * @author ruoyi 序列生成类
+ * @author JacobJohn 序列生成类
  */
 public class Seq
 {

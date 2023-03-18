@@ -3,7 +3,7 @@ package com.jacob.common.core.domain.model;
 /**
  * 用户注册对象
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 public class RegisterBody extends LoginBody
 {

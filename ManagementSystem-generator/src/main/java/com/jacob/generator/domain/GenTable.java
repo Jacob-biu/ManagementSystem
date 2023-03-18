@@ -11,7 +11,7 @@ import com.jacob.common.utils.StringUtils;
 /**
  * 业务表 gen_table
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 public class GenTable extends BaseEntity
 {

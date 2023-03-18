@@ -12,7 +12,7 @@ import com.jacob.common.core.domain.BaseEntity;
 /**
  * 岗位表 sys_post
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 public class SysPost extends BaseEntity
 {

@@ -7,7 +7,7 @@ import com.jacob.common.utils.ServletUtils;
 /**
  * 服务相关配置
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 @Component
 public class ServerConfig

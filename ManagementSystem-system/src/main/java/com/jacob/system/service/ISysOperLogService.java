@@ -6,7 +6,7 @@ import com.jacob.system.domain.SysOperLog;
 /**
  * 操作日志 服务层
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 public interface ISysOperLogService
 {

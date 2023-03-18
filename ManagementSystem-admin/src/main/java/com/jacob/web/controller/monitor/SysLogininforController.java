@@ -23,7 +23,7 @@ import com.jacob.system.service.ISysLogininforService;
 /**
  * 系统访问记录
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 @RestController
 @RequestMapping("/monitor/logininfor")

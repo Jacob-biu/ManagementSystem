@@ -3,7 +3,7 @@ package com.jacob.common.core.domain.model;
 /**
  * 用户登录对象
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 public class LoginBody
 {

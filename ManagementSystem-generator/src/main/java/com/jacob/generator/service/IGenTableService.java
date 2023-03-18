@@ -7,7 +7,7 @@ import com.jacob.generator.domain.GenTable;
 /**
  * 业务 服务层
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 public interface IGenTableService
 {

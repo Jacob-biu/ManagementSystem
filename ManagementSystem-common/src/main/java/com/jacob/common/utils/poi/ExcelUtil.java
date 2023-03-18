@@ -73,7 +73,7 @@ import com.jacob.common.annotation.Excel;
 import com.jacob.common.annotation.Excel.ColumnType;
 import com.jacob.common.annotation.Excel.Type;
 import com.jacob.common.annotation.Excels;
-import com.jacob.common.config.RuoYiConfig;
+import com.jacob.common.config.ManagementSystemConfig;
 import com.jacob.common.core.domain.AjaxResult;
 import com.jacob.common.core.text.Convert;
 import com.jacob.common.exception.UtilException;
@@ -88,7 +88,7 @@ import com.jacob.common.utils.reflect.ReflectUtils;
 /**
  * Excel相关处理
  * 
- * @author ruoyi
+ * @author JacobJohn
  */
 public class ExcelUtil<T>
 {
@@ -1332,7 +1332,7 @@ public class ExcelUtil<T>
      */
     public String getAbsoluteFile(String filename)
     {
-        String downloadPath = RuoYiConfig.getDownloadPath() + filename;
+        String downloadPath = ManagementSystemConfig.getDownloadPath() + filename;
         File desc = new File(downloadPath);
         if (!desc.getParentFile().exists())
         {
